@@ -1,8 +1,8 @@
-Zomato Data Analysis Project
+#Zomato Data Analysis Project
 Project Overview
 This project involves analyzing a Zomato dataset to uncover trends and identify the most suitable locations for opening new restaurants in Gurugram. Our team aimed to provide actionable insights for stakeholders to make informed decisions regarding restaurant placements.
 
-Table of Contents
+#Table of Contents
 Introduction
 Dataset
 Objectives
